@@ -8,7 +8,10 @@ body {
   padding: 0;
   color: #333;
   cursor: pointer;
+  background-image: url('http://i63.tinypic.com/14ujpdt.jpg');
 }
+
+
 
 .container {
   text-align: center;

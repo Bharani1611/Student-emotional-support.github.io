@@ -39,7 +39,7 @@ p {
   font-weight: normal;
   color: #555; /* Slightly darker text color */
   margin: 20px; /* Add some margin for readability */
-  text-align: centre; /* Justify text for better alignment */
+  text-align: right; /* Justify text for better alignment */
 }
 
 /* Styling for the blockquote */

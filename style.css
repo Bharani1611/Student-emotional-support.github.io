@@ -34,7 +34,7 @@ blockquote {
   font-style: italic; /* Italics for quotes */
   margin: 20px;
   color: #FF00FF; /* Quote text color */
-  background: #f0f0f0; /* Light gray background for the quote */
+  background: #00FF00	; /* Light gray background for the quote */
   padding: 10px;
   border-left: 5px solid #e74c3c; /* Reddish border on the left */
   border-radius: 5px;

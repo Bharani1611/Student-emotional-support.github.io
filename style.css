@@ -20,8 +20,11 @@ body {
 
 <style>
 body {
-  background-image: url('cover.jpg');
-}
+      background-image: url("background.jpg");
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+    }
 </style>
 h1 {
   font-weight: bold;

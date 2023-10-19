@@ -2,10 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
 
 body {
-      background-image: url("https://github.com/Bharani1611/Student-emotional-support.github.io/blob/main/img/cover.jpg");
-      background-size: cover;
-      background-position: center;
-    }
+  font-family: 'Poppins', Arial, sans-serif;
+  background: #f9f9f9; /* Light gray background */
+  margin: 0;
+  padding: 0;
+  color: #333;
+  cursor: pointer;
+}
 
 .container {
   text-align: center;

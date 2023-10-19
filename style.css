@@ -1,7 +1,7 @@
 
 body {
       background-image: url("https://raw.githubusercontent.com/Bharani1611/Student-emotional-support.github.io/main/img/cover.jpg");
-      background-size: cover;
+      background-size: fixed;
       background-position: center;
       text-align: center;
     }
